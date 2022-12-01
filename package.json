@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "camelize": "^1.0.1",
+    "firebase": "^9.14.0",
+    "picomatch": "^2.3.1",
+    "styled-components": "^5.3.6"
+  }
+}
